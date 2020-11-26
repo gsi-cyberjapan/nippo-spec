@@ -13,7 +13,7 @@
 パスからURLへの換算は、`https://cyberjapandata.gsi.go.jp/xyz/（パス）` です。
 基本的な書式は、[mokuroku](https://github.com/gsi-cyberjapan/mokuroku-spec)と同じですが、nippoの場合は、（パス）にタイルIDを含む点が異なります。
 
-例：`https://cyberjapandata.gsi.go.jp/xyz/pale/11/1826/793.png` に対する「mokuroku」と「nippo」のレコードは次の通りとなります（2020年10月現在）。
+例：`https://cyberjapandata.gsi.go.jp/xyz/pale/11/1826/793.png` に対する「mokuroku」と「nippo」のレコードは次の通りとなります（2020年12月現在）。
 
 mokuroku
 ```
@@ -87,11 +87,11 @@ mokurokuとnippoを併用することで、お手元にダウンロードする�
 
 ※この作業を行うことで、毎日のnippoによる更新に漏れがあった場合でも修正することができる。
  </li><li>
-【12月12日～1月10日】３と同様の作業を行う。
+【12月12日～1月10日】2と同様の作業を行う。
  </li><li>
-【1月11日】４と同様の作業を行う。
+【1月11日】3と同様の作業を行う。
  </li><li>
-【以後】５と６を繰り返す。
+【以後】4と5を繰り返す。
  </li>
 </ol>
 
